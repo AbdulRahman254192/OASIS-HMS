@@ -34,13 +34,14 @@
 
 <nav>
     <div class="logo">OASIS HMS</div>
-   <ul>
-    <li><a href="index.php">Dashboard</a></li>
-    <li><a href="rooms.php">Rooms</a></li>
-    <li><a href="bookings.php">Bookings</a></li>
-    <li><a href="payments.php">Payments</a></li>
-    <li><a href="staff.php">Staff</a></li>
-    <li><a href="loyalty.php">Loyalty</a></li>
-    <li><a href="smart_hub.php">Smart Hub</a></li> </ul>
-</ul>
+    <ul>
+        <li><a href="index.php">Dashboard</a></li>
+        <li><a href="rooms.php">Rooms</a></li>
+        <li><a href="bookings.php">Bookings</a></li>
+        <li><a href="payments.php">Payments</a></li>
+        <li><a href="staff.php">Staff</a></li>
+        <li><a href="loyalty.php">Loyalty</a></li>
+        <li><a href="complaints.php">Complaints</a></li>
+        <li><a href="smart_hub.php" style="color:#ef4444; font-weight:bold;">Smart Hub</a></li>
+    </ul>
 </nav>
